@@ -11,7 +11,7 @@ gem 'pg', '>= 0.18', '< 2.0'
 gem 'puma', '~> 3.11'
 # Use SCSS for stylesheets
 gem 'jquery-rails'
-gem 'bootstrap-sass'
+gem "bootstrap-sass", ">= 3.4.1"
 gem 'sass-rails', '~> 5.0'
 gem 'devise'
 gem 'bootstrap_form'
